@@ -17,7 +17,7 @@ const MapPreview = ({ location, style, children }) => {
 
 const styles = StyleSheet.create({
     mapPreview: {
-        justifyContent: 'center',
+        justifyContent: 'center', 
         alignItems: 'center',
     },
     mapImage: {
