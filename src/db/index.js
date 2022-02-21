@@ -1,4 +1,4 @@
-import SQLite from "react-native-sqlite-storage";
+import SQLite from 'react-native-sqlite-storage';
 
 const db = SQLite.openDatabase('address.db');
 
